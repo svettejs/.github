@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./img/svette-title.png" height="128" />
+  <img src="https://github.com/svettejs/.github/raw/main/profile/img/svette-title.png" height="128" />
   
 </div>
 
